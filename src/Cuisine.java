@@ -23,7 +23,7 @@ public class Cuisine {
 			 Thread.sleep(2000);
 			 System.out.println("Je remplis ta tasse " + tasse + ".");
 			 Thread.sleep(2000);
-			 System.out.println("Le café, à table ou dans la face?");
+			 System.out.println("Le café est prêt?");
 		}else {
 			if(!café && !eau && !bouton) {
 				System.out.println("T'as rien foutu en fait...");
